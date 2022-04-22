@@ -13,6 +13,9 @@ Here is my overall Github stats:
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezadizaji&hide=stars&show_icons=true&count_private=true&theme=tokyonight)
 </br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 For the ten recent days, I have spent my time on:
 </br>
 [![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji)](https://wakatime.com/@alirezadizaji)
