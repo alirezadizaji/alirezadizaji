@@ -3,12 +3,12 @@ name: Waka update
 on:
   workflow_dispatch:
   schedule:
-    # Runs everyday of 12 A.M. UTC
-    - cron: "0 0 * * *"
+    # Runs six hours
+    - cron: "* 6 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update my README
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
