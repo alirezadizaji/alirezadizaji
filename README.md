@@ -15,7 +15,7 @@ Here is my overall Github stats:
 
 For the ten recent days, I have spent my time on:
 </br>
-[![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji)](https://github.com/alirezadizaji)
+[![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji)](https://wakatime.com/@alirezadizaji)
 </br>
 
 <!---
