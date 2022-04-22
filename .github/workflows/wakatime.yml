@@ -1,0 +1,21 @@
+name: Waka update
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at every 1 hour
+    - cron: "* 1 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: false
+          TIME_RANGE: last_10_days
+          COMMIT_MESSAGE: Updated Waka stats in README
+          SHOW_TOTAL: true
+          SHOW_TIME: true
