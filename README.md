@@ -14,6 +14,11 @@ Here is my overall Github stats:
 </br>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 For the ten recent days, I have spent my time on:
