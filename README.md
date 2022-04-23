@@ -46,7 +46,9 @@ YAML   25 mins         ███████████████████
 
 <!--END_SECTION:waka-->
 
-[![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji)](https://wakatime.com/@alirezadizaji)
+<!---
+[![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji&v=2)](https://wakatime.com/@alirezadizaji)
+--->
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadizaji&exclude_repo=&langs_count=8&layout=compact)](https://github.com/alirezadizaji)
