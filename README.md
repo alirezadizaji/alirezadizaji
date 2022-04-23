@@ -15,7 +15,7 @@ my name is Alireza Dizaji, and I am bachelor computer engineering student at Sha
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezadizaji&hide=stars&show_icons=true&count_private=true&theme=tokyonight)
 </br>
 
-📈For the ten recent days, I have spent my time on:
+📈For the last ten days, I have spent my time on (average per day):
 <!--START_SECTION:waka-->
 
 ```text
