@@ -10,12 +10,12 @@
 
 my name is Alireza Dizaji, and I am bachelor computer engineering student at Sharif university of Tech, Tehran, Iran. currently, I'm working as a Research and Development scientist at [AI-Med](https://aimed-sharif.ir)  which our main focus is to propose new or utilize AI approaches to improve and speed-up the decision-making of the medical society; to know more about my recent activities, please checkout [my personal website](https://alirezadizaji.github.io). Besides, I am always enthusiastic to contribute to open-source projects so If you are willing to collaboration, please contact me via [email](mailto:alirezadizaji@yahoo.com) ;)  
 
-📊Here is my overall Github stats:
+📈**Here is my overall Github stats**:
 </br>
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezadizaji&hide=stars&show_icons=true&count_private=true&theme=tokyonight)
 </br>
 
-📈For the last ten days, I have spent my time on (average per day):
+📊**For the last ten days, I have spent my time on (average per day)**:
 <!--START_SECTION:waka-->
 
 ```text
@@ -25,6 +25,26 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 [![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji)](https://wakatime.com/@alirezadizaji)
+
+<img height="15" src="https://user-images.githubusercontent.com/33565522/164893004-b8e1168a-4bcc-476a-8524-eadf29378fff.png">**languages and tools that I'd like to work with**:
+<br/>
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezadizaji&exclude_repo=&langs_count=8&layout=compact)](https://github.com/alirezadizaji)
