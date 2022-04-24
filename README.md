@@ -35,7 +35,7 @@ my name is Alireza Dizaji, and I am bachelor computer engineering student at Sha
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-📊 **For the last ten days, I have spent my time on (average per day)**:
+📊 **For the last ten days, I have spent my time on**:
 <!--START_SECTION:waka-->
 
 ```text
