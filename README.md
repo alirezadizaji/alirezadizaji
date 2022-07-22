@@ -39,11 +39,11 @@ my name is Alireza Dizaji, and I am bachelor computer engineering student at Sha
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 26 hrs 40 mins
+Total Time: 21 hrs 2 mins
 
-Python       22 hrs 21 mins  █████████████████████░░░░   83.51 %
-Text         4 hrs 17 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python   18 hrs 50 mins  ██████████████████████▒░░   89.15 %
+Text     2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Other    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
