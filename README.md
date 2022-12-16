@@ -8,7 +8,7 @@
 --->
 <br/><br/>
 
-my name is Alireza Dizaji, and I have recently graduated as a Bachelor of Science student at the Sharif University of Technology, Computer Engineering field. Currently, I am an Undergraduate Research Assistant at the Technical University of Munich, where I am working on spatial-temporal skeleton pose action recognition task, using Graph Neural Networks; To know more about my recent activities, please check out [my website](https://alirezadizaji.github.io). Besides, I am always enthusiastic to contribute to open-source projects so If you are willing to collaborate, please contact me via [email](mailto:alirezadizaji@yahoo.com) ;)  
+My name is Alireza Dizaji, and I have recently graduated as a Bachelor of Science student at the Sharif University of Technology, Computer Engineering field. Currently, I am an Undergraduate Research Assistant at the Technical University of Munich, where I am working on spatial-temporal skeleton pose action recognition task, using Graph Neural Networks; To know more about my recent activities, please check out [my website](https://alirezadizaji.github.io). Besides, I am always enthusiastic to contribute to open-source projects so If you are willing to collaborate, please contact me via [email](mailto:alirezadizaji@yahoo.com) ;)  
 
 📈 **Here is my overall Github stats**:
 </br>
