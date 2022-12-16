@@ -39,14 +39,14 @@ my name is Alireza Dizaji, and I am bachelor computer engineering student at Sha
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 3 hrs 18 mins
+Total Time: 7 hrs 38 mins
 
-Python       2 hrs 17 mins   █████████████████▒░░░░░░░   69.11 %
-YAML         51 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-SCSS         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+YAML         5 hrs 45 mins   ███████████████████░░░░░░   75.50 %
+Python       1 hr 33 mins    █████░░░░░░░░░░░░░░░░░░░░   20.42 %
+HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
