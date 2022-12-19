@@ -39,14 +39,14 @@ My name is Alireza Dizaji and I have recently graduated as a Bachelor of Science
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 hrs 8 mins
+Total Time: 13 hrs 34 mins
 
-YAML         7 hrs 16 mins   ██████████████████░░░░░░░   71.80 %
-Python       2 hrs           █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-CSV          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+YAML         7 hrs 16 mins   █████████████▒░░░░░░░░░░░   53.61 %
+Python       5 hrs 11 mins   █████████▓░░░░░░░░░░░░░░░   38.24 %
+CSV          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Git Config   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
