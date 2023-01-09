@@ -39,9 +39,9 @@ My name is Alireza Dizaji and I have recently graduated as a Bachelor of Science
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 hrs 13 mins
+Total Time: 5 hrs 12 mins
 
-Python   7 hrs 13 mins   █████████████████████████   100.00 %
+Python   5 hrs 12 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
