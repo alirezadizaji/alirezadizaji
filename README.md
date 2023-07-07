@@ -39,9 +39,9 @@ My name is Alireza Dizaji and I was graduated as a Bachelor of Science student a
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 22 mins
 
-No activity tracked
+YAML   22 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
