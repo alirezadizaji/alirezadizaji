@@ -1,5 +1,5 @@
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/alireza-dizaji-43a634194/">
+<a href="[https://www.linkedin.com/in/alireza-dizaji-43a634194/](https://www.linkedin.com/in/gil-estel-dizaji-43a634194/)">
   <img align="left" alt="Alireza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -8,7 +8,7 @@
 --->
 <br/><br/>
 
-My name is Alireza Dizaji and I was graduated as a Bachelor of Science student at the Sharif University of Technology, Computer Engineering field. Currently, I am an Undergraduate Research Assistant at the Technical University of Munich, where I am working on a spatial-temporal skeleton pose action recognition task, using Graph Neural Networks. Formerly, For nearly seven months I was a Research Intern at the Computer Aided Medical Procedure and Augmented Reality Lab (CAMP) at the Technical University of Munich (TUM) working at the intersection of Graph Neural Networks and Explainable Machine Learning. To know more about my recent activities, please check out [my website](https://alirezadizaji.github.io). Besides, I am always enthusiastic to contribute to open-source projects so If you are willing to collaborate, please contact me via [email](mailto:alirezadizaji@yahoo.com) ;)  
+Hey! I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my first year Ph.D. at Quebec Artificial Intelligence Institute, shortly known as MILA, and at Universite de Montreal. Before here, I graduated as a Bachelor of Science student at the Sharif University of Technology, Computer Engineering field; Between May 2022 and 2023, I was an intern at the Technical university of Munich working on benchmarking explainability methods at Graph Neural Networks. Between April 2021 - December 2022,  I was an R&D scientist at CommaMed, where my main task was to develop methods for breast cancer detection. In the last year, I found my interest in entrepreneurship to help people stop wasting their time and energy (as the TIME is the most valuable thing in life that you can neither buy it nor take it back) and in my leisure time, I'm studying related books :).
 
 📈 **Here is my overall Github stats**:
 </br>
