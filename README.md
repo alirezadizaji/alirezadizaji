@@ -39,9 +39,10 @@ Hey! I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my fi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 24 mins
 
-No activity tracked
+YAML   23 mins         █████████████████████████   99.78 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
