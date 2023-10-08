@@ -39,12 +39,12 @@ Hey! I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my fi
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 58 mins
+Total Time: 6 hrs 22 mins
 
-Python      8 hrs 57 mins   █████████████████████████   99.82 %
-Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python      6 hrs 21 mins   █████████████████████████   99.82 %
+Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+GDScript3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Prolog      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
