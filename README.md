@@ -16,7 +16,7 @@ I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my first y
 </br>
 ![Alireza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezadizaji&hide=stars&show_icons=true&count_private=true&theme=tokyonight)
 </br>
-
+<!---
 <img height="15" src="https://user-images.githubusercontent.com/33565522/164893004-b8e1168a-4bcc-476a-8524-eadf29378fff.png"> **languages and tools that I'd like to work with**:
 <br/>
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -36,7 +36,7 @@ I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my first y
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" />
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-
+--->
 
 <!---
 [![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji&v=2)](https://wakatime.com/@alirezadizaji)
