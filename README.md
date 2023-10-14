@@ -1,14 +1,16 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey!
+<!---
 <a href="[https://www.linkedin.com/in/alireza-dizaji-43a634194/](https://www.linkedin.com/in/gil-estel-dizaji-43a634194/)">
   <img align="left" alt="Alireza's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+--->
 <!---
 ![](https://visitor-badge.glitch.me/badge?page_id=alirezadizaji.alirezadizaji)
 --->
 <br/><br/>
 
-Hey! I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my first year Ph.D. at Quebec Artificial Intelligence Institute, shortly known as MILA, and at Universite de Montreal. Before here, I graduated as a Bachelor of Science student at the Sharif University of Technology, Computer Engineering field; Between May 2022 and 2023, I was an intern at the Technical university of Munich working on benchmarking explainability methods at Graph Neural Networks. Between April 2021 - December 2022,  I was an R&D scientist at CommaMed, where my main task was to develop methods for breast cancer detection. In the last year, I found my interest in entrepreneurship to help people stop wasting their time and energy (as the TIME is the most valuable thing in life that you can neither buy it nor take it back) and in my leisure time, I'm studying related books :).
+I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my first year Ph.D. at Quebec Artificial Intelligence Institute, shortly known as MILA, and at Universite de Montreal. Before here, I graduated as a Bachelor of Science student at the Sharif University of Technology, Computer Engineering field; Between May 2022 and 2023, I was an intern at the Technical university of Munich working on benchmarking explainability methods at Graph Neural Networks. Between April 2021 - December 2022,  I was an R&D scientist at CommaMed, where my main task was to develop methods for breast cancer detection. In the last year, I found my interest in entrepreneurship to help people stop wasting their time and energy.
+
 
 📈 **Here is my overall Github stats**:
 </br>
@@ -35,16 +37,6 @@ Hey! I'm Alireza Dizaji and I'm now settled in Montreal, Quebec. I'm doing my fi
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-📊 **For the last ten days, I have spent my time on**:
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 1 hr 57 mins
-
-Python   1 hr 57 mins    █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
 
 <!---
 [![Alireza's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alirezadizaji&v=2)](https://wakatime.com/@alirezadizaji)
